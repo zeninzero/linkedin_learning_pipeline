@@ -1,0 +1,10 @@
+topic: 'linkedinlearning'
+app_name: 'linkedinlearning_producer'
+application_id: 'linkedinlearning'
+source: 'linkedinlearning'
+project: 'XXXX'
+
+url: 'SCHEMA_REGISTRY_URL'
+schemaRegUrl: 'SCHEMA_REGISTRY_URL'
+
+kafka_brokers: 'BROKERS_LIST'
